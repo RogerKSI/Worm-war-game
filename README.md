@@ -5,4 +5,4 @@ Java term project in Programming Methodology course
 * **Pathanin Lokbow**
 * **Kitipong Sirirueangsakul**
 
-Worked in group of pair
+Worked in group of 2.
