@@ -8,6 +8,6 @@ Java term project in Programming Methodology course
 
 ## Contributors
 * **Pathanin Lokbow**
-* **Kitipong Sirirueangsakul**
+* **Kitipong Sirirueangsakul** (https://github.com/RogerKSI)
 
 Worked in group of 2.
